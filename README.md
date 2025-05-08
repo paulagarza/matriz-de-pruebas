@@ -5,7 +5,7 @@ Puedes ver la Matriz de Pruebas detallada en el siguiente enlace:
 [https://docs.google.com/spreadsheets/d/1ty4JQJ4jQ_I_AF-qqiRIR_zIOtEeUwRW9yRa6b_JD2M/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ty4JQJ4jQ_I_AF-qqiRIR_zIOtEeUwRW9yRa6b_JD2M/edit?usp=sharing)
 
 
-Explicación de campos - Matriz de Pruebas
+Explicación de campos - Matriz de Pruebas<br>
 La siguiente tabla describe el significado de cada columna usada en la matriz de pruebas:<br>
 
 **ID:** Identificador único del caso de prueba.
